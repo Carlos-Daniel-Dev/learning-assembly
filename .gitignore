@@ -1,0 +1,30 @@
+# Compilation output files
+*.o
+*.out
+*.obj
+*.elf
+
+# Linker files
+*.lst
+*.map
+
+# Debug files
+*.pdb
+*.dbg
+
+# Symbol files
+*.sym
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+
+# Output directories
+bin/
+build/
+
+# Environment-specific configuration files
+.vscode/
